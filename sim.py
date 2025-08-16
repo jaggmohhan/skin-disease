@@ -11,6 +11,7 @@ import os
 # Initialize TTS engine
 engine = pyttsx3.init()
 engine.setProperty('rate', 150)
+#change
 
 # Video Capture
 cap = cv2.VideoCapture(0)
